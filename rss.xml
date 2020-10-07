@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Hladna salata sa piletinom</title>
+			<description>Nova vrsta salate koju možete često da pravite bilo za užinu bilo kao neki obrok.</description>
+			<link>http://sajtovistudenata.ict.edu.rs/7_18/appetizers.html</link>
+		</item>
+		<item>
+			<title>Musaka od povrća sa mesom</title>
+			<description>Zdravija varijanta musake, ali je ukus neverovatan pa se razlika i ne primeti.</description>
+			<link>http://sajtovistudenata.ict.edu.rs/7_18/meat-dishes.html</link>
+		</item>
+		<item>
+			<title>Heljdina pita sa višnjama</title>
+			<description>Ukusnija varijanta standardne pite sa višnjama, koju najčešće pravimo sa običnim korama. </description>
+			<link>http://sajtovistudenata.ict.edu.rs/7_18/pies.html</link>
+		</item>
+		<item>
+			<title>Smoothie sa avokadom</title>
+			<description>Osvežavajući napitak koji pomaže u jačanju imuniteta, ali je dobar i kao zamena za prerađene sokove ili neke druge nezdrave napitke.</description>
+			<link>http://sajtovistudenata.ict.edu.rs/7_18/healthy-drinks.html</link>
+		</item>
+	</channel>
+</rss>
